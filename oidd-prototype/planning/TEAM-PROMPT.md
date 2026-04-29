@@ -116,7 +116,12 @@ Shows:
 - @tanstack/react-query for data fetching
 - recharts for all charts
 - xlsx for client-side Excel parsing (as fallback or pre-processing)
-- @alixpartners/ui-components for AP design system
+- `@alixpartners/ui-components` for AP design system — **this is the official package** (`npm install @alixpartners/ui-components`). The team is migrating everything to React; Vue devs can consume it via [veaury](https://github.com/gloriasoft/veaury).
+
+**Figma references:**
+- Hackathon design file: https://www.figma.com/design/Ci0wOllgtjO4hq1xq5ho4K/Hackaton?node-id=0-1&t=UJd4sLbPUUH9PEkK-1
+- Design System components (v1.1.4): https://www.figma.com/design/uKDQ4UPs40MQXxn6CrcqTO/Platforms-Design-System--1.1.4-?m=auto&node-id=6067-1094&t=n4BdvHgI5LmsTPsM-1
+- Design System guidelines (v1.1.4): https://www.figma.com/design/SQlJpbk7wGlAO4P8lLiH01/Platforms-Design-System---Guidelines--1.1.4-?node-id=1614-4440&t=CwfaBRdufJ6Vh5da-1
 
 ## Design
 
